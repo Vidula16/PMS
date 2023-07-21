@@ -1,0 +1,20 @@
+AssetId,Asset Class,Sub Asset class,Risk,Investment Horizon,Returns,Liquidity
+10000,Equities,LargeCap,Medium,Long,Medium,High
+10001,Equities,MediumCap,High,Long,High,High
+10002,Equities,SmallCap,High,Long,High,High
+20001,Fixed income,Govt Bond,Low,Any,Low,High
+20002,Fixed income,Corporate Bond,Medium,Short,Medium,Medium
+30001,Cash and cash equivalents,Cash,Low,Short,Low,High
+40001,Mutual Fund,Bond Funds,Low,Any,Medium,Medium
+40002,Mutual Fund,Index Funds,Medium,Any,Medium,Medium
+40003,Mutual Fund,Balanced Funds,Medium,Long,High,High
+40004,Mutual Fund,Money Market Funds,Low,Short,Low,High
+40005,Mutual Fund,Income Funds,High,Long,High,High
+40006,Mutual Fund,Speciality Funds,High,Long,High,High
+40007,Mutual Fund,Exchange Traded Funds (ETF),Medium,Any,Medium,High
+50001,Real estate,Residential,High,Long,High,Low
+50002,Real estate,Commercial,High,Long,High,Low
+60001,Infrastructure,Roads,Low,Long,Medium,Low
+70001,Private equity,Private equity,High,Medium,High,High
+80001,Hedge funds,Hedge funds,High,Medium,High,High
+90001,Art and collectibles,Paintings,Low,Long,Medium,Low

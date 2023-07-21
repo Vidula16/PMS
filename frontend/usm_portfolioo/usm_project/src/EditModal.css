@@ -1,0 +1,23 @@
+.savem {
+    width: 23%;
+    height: 20%;
+    font-size: 18px;
+    margin-left: 2%;
+}
+
+.savem:hover {
+    background-color: black;
+    color: white;
+}
+
+.modalBackground {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 40%;
+    margin-top: 4%;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    background-size: cover;
+}

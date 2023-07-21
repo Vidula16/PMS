@@ -1,0 +1,228 @@
+.HeaderLine {
+    font-size: x-large;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+
+}
+
+.DateTag {
+    font-size: small;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+
+.WebTag {
+    width: 260px;
+
+    margin-left: 20px;
+    padding-left: -500px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.stats {
+    background-color: rgb(202, 207, 206);
+    width: 300px;
+    margin-left: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 40px;
+    margin-top: 10px;
+    display: inline-block;
+}
+
+.RisersStats {
+    font-size: large;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    display: inline-block;
+
+}
+
+.space {
+    padding-left: 125px;
+}
+
+.c1 {
+    font-size: small;
+}
+
+.sp0 {
+    color: rgb(107, 180, 107);
+}
+
+.Sp {
+    padding-left: 50px;
+    color: rgb(107, 180, 107);
+}
+
+.sp2 {
+    padding-left: 85px;
+    color: rgb(107, 180, 107);
+}
+
+.space1 {
+    padding-left: 125px;
+}
+
+.FallersStats {
+    font-size: large;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+
+}
+
+.spp {
+    color: red;
+    padding-left: 40px;
+}
+
+.Sp3 {
+    color: red;
+    padding-left: 11px;
+}
+
+.sp4 {
+    color: red;
+    padding-left: 97px;
+}
+
+.StockNews {
+    background-color: beige;
+}
+
+.image1 {
+    height: 80px;
+    width: 80px;
+    vertical-align: top;
+    object-fit: cover;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 10px;
+
+
+}
+
+.header {
+    margin-bottom: 0px;
+    letter-spacing: 2px;
+}
+
+.Tagg {
+    display: inline-block;
+    margin-top: 0px;
+
+}
+
+.news {
+
+    width: 480px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.headerTag {
+    margin-top: 0px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.headerTag:hover {
+    color: blue;
+}
+
+.image2 {
+    height: 100px;
+    width: 100px;
+    position: fixed;
+    right: 880px;
+    bottom: 220px;
+
+    object-fit: cover;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.news1 {
+    width: 480px;
+    display: inline-block;
+
+    position: fixed;
+    bottom: 200px;
+    left: 430px;
+
+}
+
+.header1 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.headerTag1 {
+    margin-top: 0px;
+    font-size: x-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.headerTag1:hover {
+    color: blue;
+
+}
+
+.Tagg2 {
+    margin-top: 0px;
+}
+
+.searchdrop {
+    position: fixed;
+    right: 150px;
+    top: 200px;
+
+}
+
+.element {
+    font-size: larger;
+}
+
+.search {
+    position: fixed;
+    right: 130px;
+    top: 250px;
+
+
+
+
+}
+
+.bttn {
+    position: fixed;
+    right: 130px;
+    margin-top: 10px;
+    background-color: blue;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.searchbar {
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+    background-color: rgb(226, 222, 217);
+}

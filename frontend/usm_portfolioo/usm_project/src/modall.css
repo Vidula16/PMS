@@ -1,0 +1,41 @@
+.cancel {
+    background-color: blue;
+}
+
+.modalBackground {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+.continuem {
+    width: 20%;
+    height: 20%;
+    font-size: 18px;
+    margin-left: 2%;
+
+}
+
+.continuem:hover {
+    background-color: black;
+    color: white;
+}
+
+.cancelm {
+    width: 20%;
+    height: 20%;
+    font-size: 18px;
+
+}
+
+.cancelm:hover {
+    background-color: black;
+    color: white;
+}

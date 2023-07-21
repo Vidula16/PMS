@@ -1,0 +1,277 @@
+.add {
+    background-color: black;
+    width: 20%;
+    height: 20%;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 6%;
+}
+
+.add:hover {
+    background-color: white;
+    color: black;
+}
+
+.container21 {
+
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.header21 {
+    text-align: center;
+    color: chartreuse;
+    font-size: 130%;
+}
+
+.body21 {
+    text-align: left;
+
+}
+
+.container22 {
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+
+}
+
+.header22 {
+    text-align: center;
+    color: chartreuse;
+    font-size: 130%;
+}
+
+.body22 {
+    text-align: left;
+
+}
+
+.buttons1 {
+    margin-top: -2%;
+}
+
+
+.ba {
+    width: 10%;
+    height: 20%;
+    background-color: white;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-top: 5%;
+    color: black;
+
+}
+
+.ba:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.ne {
+    width: 10%;
+    height: 20%;
+    background-color: white;
+    color: black;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.ne:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.sec {
+
+    margin-left: 10%;
+    top: 5%;
+    color: red;
+    font-size: 18px;
+}
+
+.secname {
+    margin-left: 2%;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+
+}
+
+h4 {
+    margin-top: 3%;
+}
+
+.asbutton {
+    background-color: white;
+    color: red;
+    text-align: center;
+    width: 15%;
+    height: 4%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 150%;
+    /* margin-top: 2%; */
+}
+
+.sec1 {
+    margin-top: 1%;
+}
+
+.secpage-1 {
+    margin-left: -70%;
+    margin-top: 1%;
+    font-size: 18px;
+}
+
+.secpage-2 {
+    margin-top: -1.9%;
+    margin-left: -3%;
+    font-size: 18px;
+}
+
+.secpage-3 {
+    margin-top: -1.9%;
+    margin-left: 50%;
+    font-size: 18px;
+}
+
+.secpage-4 {
+    margin-top: 1%;
+    font-size: 19px;
+    margin-left: -70%;
+}
+
+.secpage-5 {
+    margin-top: -1.9%;
+    font-size: 19px;
+    margin-left: -3%;
+}
+
+.secpage-6 {
+    margin-top: -1.9%;
+    margin-left: 50%;
+    font-size: 18px;
+}
+.secpage-7{
+    margin-top: 1.9%;
+    font-size: 19px;
+    margin-left: -3%;
+
+}
+
+.secpages {
+    margin-left: 10%;
+}
+
+.secpage-sec {
+    margin-left: -4.4%;
+}
+
+.secpage-equity {
+    margin-left: -6.5%;
+}
+
+.secpage-equity-input {
+    width: 15%;
+    color: black;
+}
+
+.secpage-exchange {
+    margin-left: -6%;
+
+}
+.secpage-Transaction {
+    margin-left: -6%;
+
+}
+.secpage-exchange-input {
+    width: 31%;
+    color: black;
+}
+
+.secpage-Transaction-input {
+    width: 31%;
+    color: black;
+}
+
+.secpage-sec-down {
+    width: 9%;
+    color: black;
+}
+
+.sel1 {
+
+    color: black;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+
+}
+
+.savebutton {
+    margin-top: 2%;
+}
+
+.savebutton1 {
+    color: black;
+    font-size: 18px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.savebutton1:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.balance {
+    background-color: greenyellow;
+    color: black;
+    font-size: large;
+    box-sizing: content-box;
+    margin-left: 9%;
+    padding-right: 2%;
+    position: relative;
+    display: inline;
+    padding-left: 2%;
+
+
+
+
+}
+
+.balance1 {
+    background-color: rgb(179, 188, 165);
+    color: black;
+    font-size: large;
+    margin-right: 10%;
+    margin-top: 0%;
+    display: inline-block;
+    padding-left: 2%;
+    padding-right: 2%;
+    box-sizing: content-box;
+
+
+}
+
+.ab {
+    margin-bottom: 0%;
+}
+
+.a {
+    margin-bottom: 0%;
+}

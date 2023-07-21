@@ -1,0 +1,26 @@
+.navlogo {
+    width: 7%;
+    height: 7%;
+    margin-right: 85%;
+    margin-top: 2%;
+}
+
+a {
+    color: white;
+}
+
+.navcomp {
+    margin-left: 12%;
+    margin-top: -5%;
+    font-size: 18px;
+}
+
+.dropdown-menu {
+    font-size: 16px;
+}
+
+.line {
+    color: white;
+    width: 100%;
+    margin-top: 6%;
+}

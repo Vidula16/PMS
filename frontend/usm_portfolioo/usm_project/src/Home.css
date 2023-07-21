@@ -1,0 +1,87 @@
+.back {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.p1 {
+    font-size: 100px;
+}
+
+.list {
+    margin-top: 25px;
+    font-size: 18px;
+    color: black;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.image {
+    width: 90px;
+    height: 70px;
+    text-align: left;
+    margin-top: 10%;
+}
+
+.solid {
+    border-style: solid;
+    border-color: #000000;
+    margin-top: 2px;
+    margin-bottom: 50px;
+    border-width: 1px;
+
+}
+
+.btn {
+    margin-left: 60%;
+}
+
+.btn:hover {
+    background-color: green;
+}
+
+.imgi {
+    width: 50%;
+    height: 50%;
+    text-align: left;
+    margin-left: 47%;
+    margin-top: -150px;
+}
+
+.dropdown-menu {
+    margin-top: 40px;
+    font-size: 14px;
+    color: black;
+    font-weight: 100;
+}
+
+.dropdown-toggle {
+    font-size: 18px;
+    color: black;
+}
+
+.heading {
+    margin-top: 50%;
+}
+
+.mainname {
+    height: 380px;
+    margin-left: 50%;
+    margin-top: 4%;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    margin-right: 40%;
+    margin-top: -10%;
+}
+
+.mainpara {
+    margin-left: 10%;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 40%;
+    text-align: justify;
+}

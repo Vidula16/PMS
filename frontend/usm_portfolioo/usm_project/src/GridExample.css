@@ -1,0 +1,9 @@
+.ActiveStatus{
+    background-color: green;
+}
+.closedStatus{
+background-color: red;
+}
+.newStatus{
+background-color: blue;
+}

@@ -1,0 +1,66 @@
+body {
+    font-family: 'Lato', sans-serif;
+
+}
+
+.headtheme {
+    margin-bottom: 40px;
+    text-shadow: 2px 2px red;
+
+}
+
+label {
+    color: #333;
+}
+
+.btn-send {
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    width: 80%;
+    margin-left: 3px;
+}
+
+.help-block.with-errors {
+    color: #ff5050;
+    margin-top: 5px;
+
+}
+
+.card {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.rowed {
+    margin-left: 70%;
+}
+
+.rdit {
+    font-size: large;
+    color: white;
+}
+
+.col {
+    width: 100rem;
+}
+
+.assetdiv {
+    margin-left: -5%;
+
+
+}
+
+.labelasset {
+    font-size: 22px;
+    font-weight: bold;
+    color: chartreuse;
+}
+
+.placeholder {
+    margin-left: 5%;
+}
+
+.tablediv {
+    margin-top: 12%;
+}

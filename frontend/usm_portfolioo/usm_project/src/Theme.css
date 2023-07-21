@@ -1,0 +1,44 @@
+.container8 {
+  margin-top: 2%;
+  width: 80%;
+  margin-left: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.theader {
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 5%;
+  color: crimson;
+  font-weight: bold;
+  width: 15%;
+  height: 5%;
+  font-size: 200%;
+}
+
+.head81 {
+  color: chartreuse;
+  font-size: 150%;
+  text-align: center;
+}
+
+.body81 {
+  font-size: 100%;
+  text-align: left;
+}
+
+.backt1 {
+  color: black;
+  font-size: 18px;
+  width: 10%;
+  border-bottom-left-radius: 50px;
+  border-top-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-right-radius: 50px;
+  margin-top: 30%;
+}
+
+.backt1:hover {
+  background-color: aqua;
+  color: black;
+}

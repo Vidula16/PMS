@@ -1,0 +1,141 @@
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  padding: 20%;
+  margin-left: 20%;
+}
+
+.containera {
+  max-width: 650px;
+  width: 100%;
+  font-size: large;
+  font-weight: bold;
+  padding: 10px, 10px;
+  border-radius: 5px;
+  color: white;
+  margin-left: 27%;
+  margin-top: -2%;
+}
+
+.containera.title {
+  font-size: 25px;
+  font-weight: 500;
+  position: relative;
+}
+
+.containera.title::before {
+  content: '';
+  position: absolute;
+  height: 3px;
+  width: 30px;
+  left: 0;
+  bottom: 0;
+}
+
+.containera form .portfolio-details {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+form .portfolio-details .input-box {
+  width: calc(100% / 2 - 20px);
+  margin: 20px 0 12px 0;
+}
+
+.portfolio-details .input-box .details {
+  font-weight: 500;
+  margin-bottom: 5px;
+  display: block;
+
+}
+
+.portfolio-details .input-box .input {
+  height: 45px;
+  width: 100%;
+  outline: none;
+  border-radius: 5px;
+  border-radius: 1px solid #ccc;
+  padding-left: 15px;
+  font-size: 16px;
+  border-bottom-width: 2px;
+  transition: all 0.3s ease;
+}
+
+.view {
+  background-color: black;
+  color: white;
+  width: 120%;
+  height: 50%;
+  margin-left: -170%;
+  margin-top: 35%;
+}
+
+.nextb {
+  width: 15%;
+  height: 20%;
+  background-color: white;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin-bottom: 20%;
+  color: black;
+}
+
+.nextb:hover {
+  background-color: aqua;
+  color: black;
+}
+
+.cancelb {
+  width: 15%;
+  height: 20%;
+  background-color: white;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  margin-top: 6%;
+  color: black;
+}
+
+.cancelb:hover {
+  background-color: aqua;
+  color: black;
+}
+
+.selectionst {
+  width: 50px;
+
+  position: relative;
+}
+
+.title1 {
+  font-size: 200%;
+}
+
+.selections {
+  height: 36%;
+  font-weight: 100;
+  color: black;
+}
+
+.details {
+  text-align: center;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.wert {
+  margin-left: 25%;
+
+}
+
+.ht {
+  color: white;
+  font-size: xx-large;
+  margin-top: 2%;
+}

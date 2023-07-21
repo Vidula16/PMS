@@ -1,0 +1,121 @@
+.container {
+    margin-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.head {
+    text-align: left;
+    font-size: larger;
+    justify-content: center;
+}
+
+.b {
+    width: 10%;
+    height: 20%;
+    background-color: rgb(93, 211, 211);
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    margin-left: 70%;
+    margin-top: 22%;
+}
+
+.pm {
+    font-size: larger;
+    margin-top: -5%;
+
+}
+
+.pmbutton {
+    background-color: white;
+    color: red;
+    text-align: center;
+    width: 25%;
+    height: 5%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 200%;
+    margin-top: 2%;
+    margin-left: -1%;
+    box-shadow: 2px 2px red;
+}
+
+.back {
+    width: 10%;
+    height: 20%;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    font-size: larger;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 6%;
+    background-color: white;
+    color: black;
+}
+
+.back:hover {
+    background-color: aqua;
+    color: black;
+}
+
+.edit {
+    width: 200%;
+    height: 140%;
+
+}
+
+.editbutton {
+    width: 19%;
+    height: 35%;
+    border: 1px transparent;
+    background: transparent;
+
+}
+
+.del {
+    width: 280%;
+    height: 120%;
+
+}
+
+.delbutton {
+    width: 15%;
+    height: 20%;
+    margin-left: 6%;
+    border: 1px transparent;
+    background: transparent;
+    margin-left: 15%;
+
+}
+
+.add1 {
+    width: 20%;
+    height: 20%;
+    background: transparent;
+}
+
+.addbutton1 {
+    width: 15.5%;
+    height: 25%;
+    margin-left: 6%;
+    border: 1px transparent;
+    background: transparent;
+    margin-left: 65%;
+    margin-top: 2%;
+}
+
+.header1 {
+    color: chartreuse;
+    font-size: 180%;
+    text-align: center;
+
+}
+
+.body1 {
+    font-size: 150%;
+    text-align: left;
+}
